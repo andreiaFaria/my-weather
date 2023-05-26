@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Weather</string>
+    <string name="city_Porto">Porto</string>
+    <string name="city_Lisboa">Lisboa</string>
+</resources>
